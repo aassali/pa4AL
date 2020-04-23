@@ -1,0 +1,27 @@
+STEPHANE & FABIEN
+
+
+Projet annuel :
+
+role de Client & de Prestataire
+
+fichier en ligne myGes
+
+
+-client Lourd
+gros traitement
+
+
+
+-Serveur API
+JEE
+
+
+
+-App Mobile
+
+
+
+
+
+Le client choisi la thematique et une liste de killerFeature (kf)
