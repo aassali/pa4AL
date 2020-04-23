@@ -1,0 +1,3 @@
+Partie serveur !
+
+techno imposé : J2ee
